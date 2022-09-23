@@ -1,3 +1,2 @@
-# testrepo
-## Editing the file
-Its a markdown file in this repository.
+# IBM Skills Network Exercises
+This repository consists of all solved exercises provided by IBM Skills Network in the course "Python For Data Science, AI and Development"
